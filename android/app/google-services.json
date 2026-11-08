@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543934652866",
+    "project_id": "locara-app-d6952",
+    "storage_bucket": "locara-app-d6952.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543934652866:android:a6a86f7d09fe1f8b3c765b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVKDHKlWV-8GKTNBUObWyymmCpxXSvlQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
